@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/that-nanjala/Twitter-Data-Analysis.svg?branch=main)](https://travis-ci.com/that-nanjala/Twitter-Data-Analysis)
+
 # Twitter-Data-Analysis
 
 ### So here are the bare minimum requirement for completing this task
