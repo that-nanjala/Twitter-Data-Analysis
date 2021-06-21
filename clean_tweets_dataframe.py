@@ -59,3 +59,4 @@ class Clean_Tweets:
         df = df.drop(df[df['lang'] != 'en'].index)
         
         return df
+        
